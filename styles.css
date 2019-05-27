@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Material+Icons);
+
+html {
+    height: 100%;
+    overflow: auto;
+}
+
+body {
+    min-height: 100%;
+    background: black url('image/bg.jpg') no-repeat fixed center center;
+    background-size: cover;
+}
+
+* {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
